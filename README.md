@@ -1,2 +1,15 @@
-# max-racism
-neuron scalping
+--------------
+| max-racism |
+--------------
+
+
+# neuron
+https://en.wikipedia.org/wiki/Neuron
+
+# scalping
+https://en.wikipedia.org/wiki/Scalping
+
+# brain
+https://en.wikipedia.org/wiki/Brain
+
+bemoeigurus at work
